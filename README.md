@@ -23,7 +23,7 @@ This will open the application in your default browser. You can now browse and i
 - Supabase: Backend hosting and database management
 - Netlify: Deployment platform for web applications
 ## Website
-You can access the CineBlend web application [here]([[url](https://watchwithme-tharris.netlify.app)])
+You can access the CineBlend web application at: https://watchwithme-tharris.netlify.app
 ## Contributing
 Contributions to CineBlend are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 ## License
