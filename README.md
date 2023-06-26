@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# CineBlend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+CineBlend is a web application built using React.js that allows users to browse and discover movies. It provides a user-friendly interface for viewing a collection of movies, filtering them by genre, and contributing new movies to the database. With its real-time voting system, users can engage with the community by expressing their preferences for movies.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+Movie List: Explore a curated collection of movies stored in the database.
+Genre Filtering: Filter movies based on various genres to find movies of interest.
+Adding New Movies: Contribute to the movie database by submitting new movies using a simple form.
+Voting System: Engage with the community by voting for movies using the provided voting buttons.
 
 ### `npm start`
 
